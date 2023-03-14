@@ -1,0 +1,1 @@
+# Simple script to convert from Decimal to NMEA
